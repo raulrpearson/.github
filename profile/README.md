@@ -10,7 +10,7 @@
 
 # TV Labs
 
-TV Labs builds tools that solve real problems in Smart TV app development and testing. Our cloud platform gives you remote access to actual devices, eliminating hardware procurement headaches while supporting vision and appium-baseed test automation. We're focused on practical solutions that reduce the frustration of cross-platform TV app development.
+TV Labs builds tools that solve real problems in Smart TV app development and testing. Our cloud platform gives you remote access to actual devices, eliminating hardware procurement headaches while supporting vision and Appium-based test automation. We're focused on practical solutions that reduce the frustration of cross-platform TV app development.
 
 ### OSS Projects
 
